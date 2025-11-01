@@ -19,8 +19,8 @@
   "languages": [{ "lang": "en", "name": "English", "path": "lang/en.json" }],
   "url": "https://github.com/RobinKuiper/lava-flow",
   "license": "https://github.com/RobinKuiper/lava-flow/LICENSE",
-  "manifest": "https://github.com/RobinKuiper/lava-flow/releases/download/4.1.0/module.json",
-  "download": "https://github.com/RobinKuiper/lava-flow/releases/download/4.1.0/lava-flow.zip",
+  "manifest": "https://raw.githubusercontent.com/RobinKuiper/lava-flow/refs/heads/main/bundle/module.json",
+  "download": "https://raw.githubusercontent.com/RobinKuiper/lava-flow/refs/heads/main/bundle/lava-flow.zip",
   "readme": "https://github.com/RobinKuiper/lava-flow/README.md",
   "changelog": "https://github.com/RobinKuiper/lava-flow/CHANGELOG.md"
 }

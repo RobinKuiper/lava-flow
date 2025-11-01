@@ -11,15 +11,16 @@
   ],
   "compatibility": {
     "minimum": "12",
-    "verified": "12"
+    "verified": "13.347",
+    "maximum": "13"
   },
   "esmodules": ["src/index.js"],
   "styles": ["css/lava-flow.css"],
   "languages": [{ "lang": "en", "name": "English", "path": "lang/en.json" }],
-  "url": "https://github.com/Praxxian/lava-flow",
-  "license": "https://github.com/Praxxian/lava-flow/LICENSE",
-  "manifest": "https://github.com/Praxxian/lava-flow/releases/download/4.1.0/module.json",
-  "download": "https://github.com/Praxxian/lava-flow/releases/download/4.1.0/lava-flow.zip",
-  "readme": "https://github.com/Praxxian/lava-flow/README.md",
-  "changelog": "https://github.com/Praxxian/lava-flow/CHANGELOG.md"
+  "url": "https://github.com/RobinKuiper/lava-flow",
+  "license": "https://github.com/RobinKuiper/lava-flow/LICENSE",
+  "manifest": "https://github.com/RobinKuiper/lava-flow/releases/download/4.1.0/module.json",
+  "download": "https://github.com/RobinKuiper/lava-flow/releases/download/4.1.0/lava-flow.zip",
+  "readme": "https://github.com/RobinKuiper/lava-flow/README.md",
+  "changelog": "https://github.com/RobinKuiper/lava-flow/CHANGELOG.md"
 }
